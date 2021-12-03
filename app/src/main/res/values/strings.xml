@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Recipe Book</string>
+    <string name="title">Recipe Categories</string>
+    <string name="addbutton">Add Category</string>
+    <string name="categoryname">Category Name</string>
+    <string name="recipebtn">Add New Recipe</string>
+    <string name="recipetitle">Recipe Title</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="directions">Directions: </string>
+    <string name="add_description">Add New Category</string>
+    <string name="delete_description">Delete Category</string>
+    <string name="addrecipebtn">Add Recipe</string>
+    <string name="recipeText">Insert recipe name here</string>
+    <string name="ingredientsText">Insert ingredients here</string>
+    <string name="directionText">Insert directions here</string>
+    <string name="addnew">Add New Recipe</string>
+</resources>
